@@ -1,0 +1,26 @@
+{
+  "name": "is-class",
+  "version": "1.0.0",
+  "description": "Check whether an instance is a Class object.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottricity/is-class.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "class",
+    "intelligent"
+  ],
+  "author": "Jonathan Scott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottricity/is-class/issues"
+  },
+  "homepage": "https://github.com/scottricity/is-class#readme"
+}
